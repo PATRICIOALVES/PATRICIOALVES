@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PATRICIOALVES
 - 👀 I’m interested in ...  Front-end - HTML, CSS, JavaScript, React e +
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...🎓 Atualmente dedicado aos estudos em diversas áreas da tecnologia:
+- 💞️ I’m looking to collaborate on ...
+🎓 Atualmente dedicado aos estudos em diversas áreas da tecnologia:
 
 🌐 Domínio completo de HTML e CSS, bem como JavaScript e React JS, desde conceitos básicos até avançados. Experiência na criação de projetos com técnicas modernas de front-end, incluindo o uso de TypeScript com React. Aluno do renomado curso "Hora de Codar" ministrado por Matheus Battisti na Udemy.
 📚 Em constante aprimoramento do idioma inglês, com o curso "Inglês Rápido: do Básico à Fluência Sem Enrolação", ministrado pelo Prof. Paulo Andrade, PhD.
