@@ -5,8 +5,7 @@
 
 🎓 Atualmente dedicado aos estudos em diversas áreas da tecnologia:
 
-🌐 Domínio completo de HTML e CSS, bem como JavaScript e React JS, desde conceitos básicos até avançados. Experiência na criação de projetos com técnicas modernas de front-end, 
-incluindo o uso de TypeScript com React. Aluno do renomado curso "Hora de Codar" ministrado por Matheus Battisti na Udemy.
+🌐 Domínio completo de HTML e CSS, bem como JavaScript e React JS, desde conceitos básicos até avançados. Experiência na criação de projetos com técnicas modernas de front-end,incluindo o uso de TypeScript com React. Aluno do renomado curso "Hora de Codar" ministrado por Matheus Battisti na Udemy.
 📚 Em constante aprimoramento do idioma inglês, com o curso "Inglês Rápido: do Básico à Fluência Sem Enrolação", ministrado pelo Prof. Paulo Andrade, PhD.
 🎨 Proficiência no Canva, explorando os fundamentos da interface e recursos essenciais para criar designs únicos e profissionais. 
 Aluno do curso completo oferecido por Paulo Andrade, renomado professor da Udemy com quase 400 mil alunos.
